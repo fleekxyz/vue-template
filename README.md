@@ -1,6 +1,6 @@
 # Vue + Fleek Starter Kit
 
-![image](https://github.com/fleekxyz/vue-template/assets/73345016/f417d6e9-6b7a-4a9b-a1b6-4d98542e0ddc)
+![image](https://github.com/fleekxyz/vue-template/assets/55561695/aae35d6b-7c60-4e55-a6dc-987cb24df978)
 
 ## 🚀 Project Structure
 
